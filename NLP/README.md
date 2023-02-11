@@ -22,8 +22,8 @@ This Specialization is designed and taught by two experts in NLP, machine learni
 
 ### Courses:
 
-1. [Natural Language Processing with Classification and Vector Spaces](https://github.com/Subin-Vidhu/1-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
-2. [Natural Language Processing with Probabilistic Models](https://github.com/Subin-Vidhu/Coursera_Courses/tree/main/2-Natural%20Language%20Processing%20with%20Probabilistic%20Models)
+1. [Natural Language Processing with Classification and Vector Spaces](https://github.com/Subin-Vidhu/Coursera_Courses/tree/main/NLP/1-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
+2. [Natural Language Processing with Probabilistic Models](https://github.com/Subin-Vidhu/Coursera_Courses/tree/main/NLP/2-Natural%20Language%20Processing%20with%20Probabilistic%20Models)
 3. [Natural Language Processing with Sequence Models](https://github.com/Subin-Vidhu/Coursera_Courses/tree/main/NLP/3-Natural%20Language%20Processing%20with%20Sequence%20Models)
 4. [Natural Language Processing with Attention Models](https://github.com/Subin-Vidhu/Coursera_Courses/tree/main/NLP/4-Natural%20Language%20Processing%20with%20Attention%20Models)
 

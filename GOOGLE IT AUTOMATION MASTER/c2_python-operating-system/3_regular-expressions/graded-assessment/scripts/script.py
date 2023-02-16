@@ -20,8 +20,8 @@ def replace_domain(address, old_domain, new_domain):
 def main():
   """Processes the list of emails, replacing any instances of the old domain with the new domain."""
   old_domain, new_domain = 'abc.edu', 'xyz.edu'
-  csv_file_location = '<csv_file_location>'
-  report_file = '<path_to_home_directory>' + '/updated_user_emails.csv'
+  csv_file_location = '/home/student-01-d89ee9d4d4e7/data/user_emails.csv'
+  report_file = '/home/student-01-d89ee9d4d4e7/data' + '/updated_user_emails.csv'
   user_email_list = []
   old_domain_email_list = []
   new_domain_email_list = []

@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 
-# Google IT Automation with Python Professional Certificate
-# Elmo Allistair
-# 11 Agu 2020
 
 from PIL import Image
 from glob import glob
